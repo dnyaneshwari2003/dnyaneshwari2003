@@ -2,7 +2,7 @@
 - 👀 I’m interested in data 
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on java projects
-- 📫 Youc can reach me through dnynagpure2003@gmail.com 
+- 📫 You can reach me through dnynagpure2003@gmail.com 
 - 😄 Pronouns: Her
 - ⚡ Fun fact: When I was 12, I dreamed of a treasure being found under my house.
 <!---
